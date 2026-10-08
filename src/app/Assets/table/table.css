@@ -1,0 +1,21 @@
+table {
+  width: 100%;
+}
+button{
+    margin: 5px;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: darkblue;
+}
+
+input{
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
